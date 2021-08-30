@@ -59,9 +59,9 @@ Alcatraz a beaucoup de fonctionnalités, avec **15 catégories principales**:
 * Pensez a activer les Privileged Gateway Intents de votre bot pour qu'il fonctionne [Image ici](https://prnt.sc/vq58ed)
 
 ## Bot liste
-[![](https://top.gg/api/widget/774652242787041310.svg)](https://top.gg/bot/774652242787041310) [![](https://infinitybotlist.com/bots/774652242787041310/widget?size=small)](https://infinitybotlist.com/bots/774652242787041310) [![](https://discord.boats/api/widget/774652242787041310)](https://discord.boats/bot/774652242787041310) [![](https://botsfordiscord.com/api/bot/774652242787041310/widget)](https://botsfordiscord.com/bots/774652242787041310)
- <a href="https://voidbots.net/bot/774652242787041310" >
-  <img src="https://voidbots.net/api/embed/774652242787041310" width="300" alt="Alcatraz" />
+[![](https://top.gg/api/widget/876495429859176478.svg)](https://top.gg/bot/876495429859176478) [![](https://infinitybotlist.com/bots/774652242787041310/widget?size=small)](https://infinitybotlist.com/bots/876495429859176478) [![](https://discord.boats/api/widget/876495429859176478)](https://discord.boats/bot/774652242787041310) [![](https://botsfordiscord.com/api/bot/876495429859176478/widget)](https://botsfordiscord.com/bots/876495429859176478)
+ <a href="https://voidbots.net/bot/876495429859176478" >
+  <img src="https://voidbots.net/api/embed/876495429859176478" width="300" alt="Alcatraz" />
 
 
 
