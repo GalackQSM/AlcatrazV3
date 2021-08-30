@@ -25,7 +25,7 @@ Offres de Alcatraz:
 * 💯 Plus de 220 commandes
 * 🌐 Des commandes en tout genre, Rôle couleur, Fun, Nsfw, Modération, Général, Image, Anti-Raid, Niveau etc...
 * 🤩 Besoin que d'un bot au mieux de plusieurs
-* ⚙️ Rejoins la communautés de Alcatraz Empire
+* ⚙️ Rejoins la communautés de Alcatraz Lounge
 
 ### Les commandes
 
