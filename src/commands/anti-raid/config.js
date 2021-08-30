@@ -25,6 +25,7 @@ module.exports = class ConfigCommand extends Command {
         super(client, {
             name: 'config',
             description: 'définir la configuration de l\'anti-raid!',
+            userPermissions: ['MANAGE_GUILD'],
             type: client.types.ANTIRAID
         });
     }
