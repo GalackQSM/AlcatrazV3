@@ -24,6 +24,7 @@ module.exports = class ConfigCommand extends Command {
         super(client, {
             name: 'suppwhitelist',
             description: 'Supprimer un membre de la whitelist!',
+            userPermissions: ['MANAGE_GUILD'],
             type: client.types.ANTIRAID
         });
     }
