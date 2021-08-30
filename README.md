@@ -33,7 +33,7 @@ Alcatraz a beaucoup de fonctionnalités, avec **15 catégories principales**:
 
 *   👩‍💼 **Administration**: `desacategorie`, `randomcolor`, `setautokick`, `setwelcomechannel`, `setwelcomemessage` et **+**! 
 *   🚓 **Modération**: `addrole`, `slowmode`, `softban`, `warnlist`, et **+**! 
-*   🧨 **Anti-Raid**: `addrole`, `slowmode`, `softban`, `warnlist`, et **+**! 
+*   🧨 **Anti-Raid**: `addwhitelist`, `config`, `suppwhitelist`, `whitelist`, et **+**! 
 *   ⭐ **couleur**: `couleur`, `couleurhasard`, `creecouleur`, `creedefaultcolors`, et **+**! 
 *   🎲 **Fun**: `clyde`, `blague`, `kiss`, `fakeban`, `trumptweet` et **+**! 
 *   🖨️ **Général**: `bienvenue`, `feedback`, `pseudo`, et **+**! 
@@ -41,8 +41,8 @@ Alcatraz a beaucoup de fonctionnalités, avec **15 catégories principales**:
 *   ⌛ **Backup**: `creebackup`, `chargerbackup`, `infobackup` ! 
 *   👤 **Avatar**: `a-suivre`, `alcatraz-filtre`, `alcatraz-logo`, `psg`, `om`, et **+**! 
 *   🔞 **Nsfw**: `4k`, `anal`, `gonewild`, `hentai`, `pgif` et **+**! 
-*   💰 **Economie**: `4k`, `anal`, `gonewild`, `hentai`, `pgif` et **+**! 
-*   💡 **Niveau**: `4k`, `anal`, `gonewild`, `hentai`, `pgif` et **+**! 
+*   💰 **Economie**: `balance`, `daily`, `dailyweek`, `deposit`, `manche` et **+**! 
+*   💡 **Niveau**: `addrep`, `niveau`, `rank`, `offxp`, `onxp` et **+**! 
 *   🔔 **Info**: `admins`, `avatar`, `invitemoi`, `members`, `saloninfo` et **+**! 
 *   🏆 **Points**: `actionpoints`, `couronne`, `givepoints`, `leaderboard`, `position` et **+**! 
 *   👑 **Owner**: `delallservpoints`, `quitguild`, `servers`, `eval`, `deluserpoints` et **+**! 
