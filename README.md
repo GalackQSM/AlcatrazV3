@@ -48,14 +48,13 @@ Alcatraz a beaucoup de fonctionnalités, avec **15 catégories principales**:
 *   👑 **Owner**: `delallservpoints`, `quitguild`, `servers`, `eval`, `deluserpoints` et **+**! 
 
 ## Installation
-* 1- Commencer par télécharger le repo et d'extraire le dossier `alcatraz-master`sur votre bureau.
-* 2- Ouvrez le dossier `alcatrazV3-master` et crée un dossier `data`.
-* 3- Ouvrez la racine de votre dossier avec CMD
-* 4- Faite la commande `yarn install` [Télécharger Yarn](https://yarnpkg.com/lang/fr/docs/install/).
-* 5- Allez dans le fichier `config.json` et le remplir.
-* 6- Après faite dans le CMD `npm start`.
+* 1- Commencer par télécharger le repo et d'extraire le dossier `alcatrazV3-master`sur votre bureau.
+* 2- Ouvrez la racine de votre dossier avec CMD
+* 3- Faite la commande `yarn install` [Télécharger Yarn](https://yarnpkg.com/lang/fr/docs/install/).
+* 4- Allez dans le fichier `config.json` et le remplir.
+* 5- Après faite dans le CMD `npm start`.
 
-* PS: Si vous avez des erreurs d'installation, télécharger [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) et cocher cette case pendant l'installation [Screen](https://i.imgur.com/KTqnSxo.png) et refaire `npm start` et le tour est jouer ou sinon téléchargez directement le dossier [node_modules ici](https://mega.nz/file/EklzCApS#kcqz9OGHmUlyZyLXVFbyIMohma52Y-YALJr2Y5gRNJM)
+* PS: Si vous avez des erreurs d'installation, télécharger [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) et cocher cette case pendant l'installation [Screen](https://i.imgur.com/KTqnSxo.png) et refaire `npm start` et le tour est jouer.
 
 * Pensez a activer les Privileged Gateway Intents de votre bot pour qu'il fonctionne [Image ici](https://prnt.sc/vq58ed)
 
