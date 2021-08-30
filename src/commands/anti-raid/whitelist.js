@@ -23,6 +23,7 @@ module.exports = class TrustedlistCommand extends Command {
         super(client, {
             name: 'whitelist',
             description: 'Voir la liste de la whitelist!',
+            userPermissions: ['MANAGE_GUILD'],
             type: client.types.ANTIRAID
         });
     }
