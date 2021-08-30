@@ -1,0 +1,29 @@
+{
+  "ownerId": "TON ID",
+  "ownerTag": "TON TAG",
+
+  "token": "TOKEN BOT",
+  "BotID": "ID BOT",
+  "version": "VERSION BOT",
+  "NomBot": "NOM DU BOT",
+  "footer": "FOOTER",
+
+  "Topgg": "Cle api pour https://top.gg",
+  "BOATS": "Cle api pour https://discord.boats",
+  "VoidBots": "Cle api pour https://voidbots.net",
+  "SpaceBotList": "Cle api pour https://space-bot-list.xyz",
+  "InfinityBotList": "Cle api pour https://infinitybotlist.com",
+  "TrackerGG": "Cle api pour https://tracker.gg",
+
+  "ANTI_INSULTE" : ["putin", "fdp", "enculer", "fils de pute", "salope", "ntm", "nique ta mere", "connard", "batard", "sale noir", "baise ta mere", "mange tes morts", "ta gueule", "bâtard", "nique ta mère"],
+
+  "NomServeur": "NOM DU SERVEUR SUPPORT",
+  "Support": "LIEN D'INVITATION SANS EXPIRATION",
+  "bugReportChannelId": "ID DU SALON REPORT",
+  "modlogChannelId": "ID DU SALON LOG",
+  "ticketChannelId": "ID DU SALON TICKET",
+  "apiKeys": {
+    "catApi": "44d2e7c1-e82b-4fba-bec2-e6b07affb71f",
+    "googleApi": "AIzaSyCk09BwA1RxwuvEgKkTWqveGqyPfuCMqUI"
+  }
+}

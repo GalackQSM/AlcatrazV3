@@ -1,0 +1,281 @@
+30/08/2021 11:43:37 - info [Alcatraz.js]: Initialisation...
+30/08/2021 11:43:37 - info [Alcatraz.js]: Chargement des commandes...
+30/08/2021 11:44:09 - info [Alcatraz.js]: 
+.--------------------------------------------------------------------------------------.
+|                                      Commandes                                       |
+|--------------------------------------------------------------------------------------|
+|         Fichiers          |            Aliases             |   Catégories   | Statut |
+|---------------------------|--------------------------------|----------------|--------|
+| actpoints.js              |                                | Administration | pass   |
+| desacommande.js           |                                | Administration | pass   |
+| randomcolor.js            |                                | Administration | pass   |
+| say.js                    |                                | Administration | pass   |
+| setadminrole.js           | setar, sar                     | Administration | pass   |
+| setautokick.js            | setak, sak                     | Administration | pass   |
+| setautorole.js            | setaur, saur                   | Administration | pass   |
+| setcommandpoints.js       | setcp, scp                     | Administration | pass   |
+| setcrownchannel.js        | setcc, scc                     | Administration | pass   |
+| setcrownmessage.js        | setcm, scm                     | Administration | pass   |
+| setcrownrole.js           | setcr, scr                     | Administration | pass   |
+| setcrownschedule.js       | setcs, scs                     | Administration | pass   |
+| setleavechannel.js        | setfc, sfc                     | Administration | pass   |
+| setleavemessage.js        | setbye                         | Administration | pass   |
+| setmessagepoints.js       | setmp, smp                     | Administration | pass   |
+| setmodlog.js              | setml, sml                     | Administration | pass   |
+| setmodrole.js             | setmr, smr                     | Administration | pass   |
+| setmuterole.js            | setmur, smur                   | Administration | pass   |
+| setprefix.js              | setp, sp                       | Administration | pass   |
+| setsystemchannel.js       | setsc, ssc                     | Administration | pass   |
+| settings.js               | setting, set, s, config, conf  | Administration | pass   |
+| setverificationchannel.js | setvc, svc                     | Administration | pass   |
+| setverificationmessage.js | setverificationmsg, setvm, svm | Administration | pass   |
+| setverificationrole.js    | setvr, svr                     | Administration | pass   |
+| setvoicepoints.js         | setvp, svp                     | Administration | pass   |
+| setwelcomechannel.js      | setwc, swc                     | Administration | pass   |
+| setwelcomemessage.js      | setwelcomemsg, setwm, swm      | Administration | pass   |
+| addwhitelist.js           |                                | Anti-Raid      | pass   |
+| config.js                 |                                | Anti-Raid      | pass   |
+| suppwhitelist.js          |                                | Anti-Raid      | pass   |
+| whitelist.js              |                                | Anti-Raid      | pass   |
+| 3ds.js                    |                                | Avatar         | pass   |
+| a-suivre.js               |                                | Avatar         | pass   |
+| alcatraz-filtre.js        |                                | Avatar         | pass   |
+| alcatraz-logo.js          |                                | Avatar         | pass   |
+| approuver.js              |                                | Avatar         | pass   |
+| asmonaco.js               |                                | Avatar         | pass   |
+| asse.js                   |                                | Avatar         | pass   |
+| brazzers.js               |                                | Avatar         | pass   |
+| cadre.js                  |                                | Avatar         | pass   |
+| challenger.js             | challenge                      | Avatar         | pass   |
+| coeur.js                  |                                | Avatar         | pass   |
+| d-profil.js               |                                | Avatar         | pass   |
+| flamme.js                 | flammes                        | Avatar         | pass   |
+| gameboy.js                |                                | Avatar         | pass   |
+| inverse.js                |                                | Avatar         | pass   |
+| kyon-flingue.js           |                                | Avatar         | pass   |
+| losc.js                   |                                | Avatar         | pass   |
+| magnifique.js             |                                | Avatar         | pass   |
+| nickelback.js             |                                | Avatar         | pass   |
+| noirblanc.js              |                                | Avatar         | pass   |
+| ol.js                     |                                | Avatar         | pass   |
+| om.js                     |                                | Avatar         | pass   |
+| panneaupub.js             |                                | Avatar         | pass   |
+| peintre.js                |                                | Avatar         | pass   |
+| pixel.js                  |                                | Avatar         | pass   |
+| pokedex.js                |                                | Avatar         | pass   |
+| ps1.js                    |                                | Avatar         | pass   |
+| ps3.js                    |                                | Avatar         | pass   |
+| ps4.js                    |                                | Avatar         | pass   |
+| ps5.js                    |                                | Avatar         | pass   |
+| psg.js                    |                                | Avatar         | pass   |
+| rainbow.js                |                                | Avatar         | pass   |
+| rejected.js               |                                | Avatar         | pass   |
+| rip.js                    | deceder                        | Avatar         | pass   |
+| roi-lion.js               |                                | Avatar         | pass   |
+| sepia.js                  |                                | Avatar         | pass   |
+| sora-selfie.js            |                                | Avatar         | pass   |
+| steam-carte.js            | valve-carte                    | Avatar         | pass   |
+| tattoo.js                 |                                | Avatar         | pass   |
+| tf1.js                    |                                | Avatar         | pass   |
+| thug-life.js              |                                | Avatar         | pass   |
+| triggered.js              | trigger                        | Avatar         | pass   |
+| tv.js                     |                                | Avatar         | pass   |
+| vietnam.js                |                                | Avatar         | pass   |
+| wanted.js                 |                                | Avatar         | pass   |
+| wiiu.js                   |                                | Avatar         | pass   |
+| xboxone.js                |                                | Avatar         | pass   |
+| chargerbackup.js          | chargerbck                     | Backup         | pass   |
+| creebackup.js             | creebck                        | Backup         | pass   |
+| infobackup.js             | infobck                        | Backup         | pass   |
+| couleur.js                | changecouleur, c               | Couleurs       | pass   |
+| couleurhasard.js          | rc                             | Couleurs       | pass   |
+| couleurs.js               | colors                         | Couleurs       | pass   |
+| creecouleur.js            | cc                             | Couleurs       | pass   |
+| creedefaultcolors.js      | cdc                            | Couleurs       | pass   |
+| balance.js                | bal                            | Economie       | pass   |
+| daily.js                  |                                | Economie       | pass   |
+| dailyweek.js              |                                | Economie       | pass   |
+| deposit.js                | dep                            | Economie       | pass   |
+| manche.js                 |                                | Economie       | pass   |
+| retire.js                 | with                           | Economie       | pass   |
+| slots.js                  |                                | Economie       | pass   |
+| work.js                   |                                | Economie       | pass   |
+| ascii.js                  |                                | Fun            | pass   |
+| blague.js                 | joke                           | Fun            | pass   |
+| canard.js                 | duck                           | Fun            | pass   |
+| captcha.js                | cpt                            | Fun            | pass   |
+| chat.js                   | cat                            | Fun            | pass   |
+| chien.js                  | dog                            | Fun            | pass   |
+| clyde.js                  |                                | Fun            | pass   |
+| emojify.js                | sayemoji                       | Fun            | pass   |
+| fakeban.js                |                                | Fun            | pass   |
+| fakesay.js                | fakemsg                        | Fun            | pass   |
+| kill.js                   |                                | Fun            | pass   |
+| kiss.js                   | embrasser                      | Fun            | pass   |
+| mcsuccess.js              | mcs                            | Fun            | pass   |
+| oiseau.js                 |                                | Fun            | pass   |
+| punch.js                  |                                | Fun            | pass   |
+| renard.js                 | fox                            | Fun            | pass   |
+| roll.js                   | dice, roll                     | Fun            | pass   |
+| shibe.js                  |                                | Fun            | pass   |
+| tatia.js                  | tatia                          | Fun            | pass   |
+| trumptweet.js             |                                | Fun            | pass   |
+| weed.js                   |                                | Fun            | pass   |
+| wumpus.js                 |                                | Fun            | pass   |
+| youtube.js                | yt                             | Fun            | pass   |
+| afk.js                    |                                | Général        | pass   |
+| bienvenue.js              |                                | Général        | pass   |
+| calculatrice.js           | calcule                        | Général        | pass   |
+| covid.js                  |                                | Général        | pass   |
+| embed.js                  |                                | Général        | pass   |
+| githubrepo.js             |                                | Général        | pass   |
+| memo.js                   |                                | Général        | pass   |
+| pseudo.js                 | nick, nn                       | Général        | pass   |
+| qr-code.js                | qrcode                         | Général        | pass   |
+| reportbug.js              | bugreport, report, bug, rb, br | Général        | pass   |
+| snapcode.js               |                                | Général        | pass   |
+| suggestion.js             | sugg                           | Général        | pass   |
+| traduction.js             | translate                      | Général        | pass   |
+| tweet.js                  |                                | Fun            | pass   |
+| vote.js                   |                                | Général        | pass   |
+| admins.js                 |                                | Informations   | pass   |
+| avatar.js                 | profilepic, pic, a             | Informations   | pass   |
+| botinfo.js                | bot, bi                        | Informations   | pass   |
+| creditsbot.js             | cb                             | Informations   | pass   |
+| findid.js                 | find, id                       | Informations   | pass   |
+| fortnite.js               | fn                             | Informations   | pass   |
+| geolicationip.js          | ipinformation, geolication-ip  | Informations   | pass   |
+| github.js                 | gh, repo                       | Informations   | pass   |
+| help.js                   |                                | Informations   | pass   |
+| insta.js                  |                                | Informations   | pass   |
+| invitemoi.js              | invite, invme, im              | Informations   | pass   |
+| listerole.js              | lr                             | Informations   | pass   |
+| members.js                | memberstatus                   | Informations   | pass   |
+| mods.js                   |                                | Informations   | pass   |
+| permissions.js            | perms                          | Informations   | pass   |
+| ping.js                   |                                | Informations   | pass   |
+| prefix.js                 | pre                            | Informations   | pass   |
+| roleinfo.js               | role, ri                       | Informations   | pass   |
+| saloninfo.js              | salon, ci                      | Informations   | pass   |
+| scanweb.js                |                                | Informations   | pass   |
+| serverboost.js            |                                | Informations   | pass   |
+| servercount.js            | sc                             | Informations   | pass   |
+| servericon.js             | icon, i                        | Informations   | pass   |
+| serverinfo.js             | server, si                     | Informations   | pass   |
+| serverstaff.js            | staff                          | Informations   | pass   |
+| stats.js                  | statistics, metrics            | Informations   | pass   |
+| steam.js                  |                                | Informations   | pass   |
+| supportserver.js          | support, ss                    | Informations   | pass   |
+| texteinfo.js              |                                | Informations   | pass   |
+| uptime.js                 | up                             | Informations   | pass   |
+| userinfo.js               | ui                             | Informations   | pass   |
+| 8ball.js                  | fortune                        | Jeux           | pass   |
+| coinflip.js               | cointoss, coin, flip           | Jeux           | pass   |
+| pfc.js                    |                                | Jeux           | pass   |
+| roulette-russe.js         | rouletterusse                  | Jeux           | pass   |
+| addrep.js                 | arep                           | Niveau         | pass   |
+| delrep.js                 | dr                             | Niveau         | pass   |
+| offxp.js                  | resetxp, dxp                   | Niveau         | pass   |
+| onxp.js                   | sxp                            | Niveau         | pass   |
+| rank.js                   |                                | Niveau         | pass   |
+| reputation.js             | rep                            | Niveau         | pass   |
+| reputations.js            | reps                           | Niveau         | pass   |
+| addemoji.js               |                                | Modération     | pass   |
+| addrole.js                | giverole, addr, ar             | Modération     | pass   |
+| ban.js                    |                                | Modération     | pass   |
+| clearwarns.js             |                                | Modération     | pass   |
+| kick.js                   |                                | Modération     | pass   |
+| lock.js                   |                                | Modération     | pass   |
+| mute.js                   |                                | Modération     | pass   |
+| purge.js                  | clear                          | Modération     | pass   |
+| purgebot.js               | clearbot                       | Modération     | pass   |
+| removerole.js             | remover, rr                    | Modération     | pass   |
+| setnickname.js            | setsrn, srn                    | Modération     | pass   |
+| slowmode.js               | slow, sm                       | Modération     | pass   |
+| softban.js                |                                | Modération     | pass   |
+| sondage.js                |                                | Modération     | pass   |
+| unban.js                  |                                | Modération     | pass   |
+| unmute.js                 |                                | Modération     | pass   |
+| warn.js                   |                                | Modération     | pass   |
+| warnpurge.js              | purgewarn                      | Modération     | pass   |
+| 4k.js                     |                                | NFSW           | pass   |
+| ass.js                    |                                | NFSW           | pass   |
+| boobs.js                  |                                | NFSW           | pass   |
+| dediboobs.js              | dediboobs                      | NFSW           | pass   |
+| gonewild.js               |                                | NFSW           | pass   |
+| hass.js                   |                                | NFSW           | pass   |
+| hentai.js                 |                                | NFSW           | pass   |
+| hmidriff.js               |                                | NFSW           | pass   |
+| pgif.js                   |                                | NFSW           | pass   |
+| pussy.js                  |                                | NFSW           | pass   |
+| redtube.js                |                                | NFSW           | pass   |
+| screenweb.js              |                                | NFSW           | pass   |
+| annonce.js                |                                | Propriétaire   | pass   |
+| createinvite.js           | crinv, createinv               | Propriétaire   | pass   |
+| delallservpoints.js       |                                | Propriétaire   | pass   |
+| delalluserpoints.js       |                                | Propriétaire   | pass   |
+| delservpoints.js          |                                | Propriétaire   | pass   |
+| deluserpoints.js          |                                | Propriétaire   | pass   |
+| eval.js                   |                                | Propriétaire   | pass   |
+| quitguild.js              |                                | Propriétaire   | pass   |
+| servers.js                | servers-list                   | Propriétaire   | pass   |
+| actionpoints.js           | actpoint, ap                   | Points         | pass   |
+| couronne.js               |                                | Points         | pass   |
+| givepoints.js             | gp                             | Points         | pass   |
+| points.js                 | p                              | Points         | pass   |
+| position.js               | pos                            | Points         | pass   |
+| totalpoints.js            |                                | Points         | pass   |
+| tutopoints.js             | tutop, tp                      | Points         | pass   |
+'--------------------------------------------------------------------------------------'
+30/08/2021 11:44:11 - info [Alcatraz.js]: 18 événement(s) trouvé(s)...
+30/08/2021 11:44:11 - info [Alcatraz.js]: Chargement de l'évenement: debug
+30/08/2021 11:44:11 - info [Alcatraz.js]: Chargement de l'évenement: error
+30/08/2021 11:44:11 - info [Alcatraz.js]: Chargement de l'évenement: guildCreate
+30/08/2021 11:44:11 - info [Alcatraz.js]: Chargement de l'évenement: guildDelete
+30/08/2021 11:44:11 - info [Alcatraz.js]: Chargement de l'évenement: guildMemberAdd
+30/08/2021 11:44:11 - info [Alcatraz.js]: Chargement de l'évenement: guildMemberRemove
+30/08/2021 11:44:11 - info [Alcatraz.js]: Chargement de l'évenement: guildMemberUpdate
+30/08/2021 11:44:11 - info [Alcatraz.js]: Chargement de l'évenement: guildUpdate
+30/08/2021 11:44:13 - info [Alcatraz.js]: Chargement de l'évenement: message
+30/08/2021 11:44:13 - info [Alcatraz.js]: Chargement de l'évenement: messageDelete
+30/08/2021 11:44:13 - info [Alcatraz.js]: Chargement de l'évenement: messageDeleteBulk
+30/08/2021 11:44:13 - info [Alcatraz.js]: Chargement de l'évenement: messageReactionAdd
+30/08/2021 11:44:13 - info [Alcatraz.js]: Chargement de l'évenement: messageReactionRemove
+30/08/2021 11:44:13 - info [Alcatraz.js]: Chargement de l'évenement: messageUpdate
+30/08/2021 11:44:13 - info [Alcatraz.js]: Chargement de l'évenement: ready
+30/08/2021 11:44:13 - info [Alcatraz.js]: Chargement de l'évenement: userUpdate
+30/08/2021 11:44:13 - info [Alcatraz.js]: Chargement de l'évenement: voiceStateUpdate
+30/08/2021 11:44:13 - info [Alcatraz.js]: Chargement de l'évenement: warn
+30/08/2021 11:44:13 - error [Alcatraz.js]: getaddrinfo ENOTFOUND space-bot-list.xyz
+{
+  "errno": -3008,
+  "code": "ENOTFOUND",
+  "syscall": "getaddrinfo",
+  "hostname": "space-bot-list.xyz",
+  "stack": "Error: getaddrinfo ENOTFOUND space-bot-list.xyz
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)"
+}
+30/08/2021 11:44:15 - info [Alcatraz.js]: Mise à jour de la base de données et planification des travaux...
+30/08/2021 11:44:15 - info [Alcatraz.js]: Dev Alcatraz V3: Tâche planifiée avec succès
+30/08/2021 11:44:15 - info [Alcatraz.js]: Alcatraz Emojis: Tâche planifiée avec succès
+30/08/2021 11:44:15 - error [Alcatraz.js]: Cannot create property 'webPort' on boolean 'true'
+{
+  "stack": "TypeError: Cannot create property 'webPort' on boolean 'true'
+    at new infinity (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\infinity-api\\src\\index.js:15:51)
+    at module.exports (C:\\Users\\admin\\Desktop\\Alcatraz\\src\\events\\ready.js:100:15)
+    at Client.emit (events.js:327:22)
+    at WebSocketManager.triggerClientReady (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:197:14)
+    at WebSocketShard.emit (events.js:315:20)
+    at WebSocketShard.checkReady (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:475:12)
+    at WebSocketShard.onPacket (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:447:16)
+    at WebSocketShard.onMessage (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:301:10)"
+}

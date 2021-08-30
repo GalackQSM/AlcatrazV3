@@ -1,0 +1,1273 @@
+{
+    "name": "Tuto YouTube",
+    "region": "europe",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [],
+        "others": [
+            {
+                "type": "text",
+                "name": "test",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "Mute",
+                        "allow": 0,
+                        "deny": 2112
+                    }
+                ],
+                "messages": [
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "*creebackup",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Alcatraz",
+                        "avatar": "https://cdn.discordapp.com/avatars/876495429859176478/c6237000c390ef2580d92c7fc92d7222.webp",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": "Panel des commandes de Alcatraz",
+                                "type": "rich",
+                                "description": "**Prefix:** `*`\n**Plus d'information:** `*help [commande]`\n**Nombre de commandes:** `221`",
+                                "url": null,
+                                "timestamp": "2021-08-23T22:38:07.499Z",
+                                "color": 3092790,
+                                "fields": [
+                                    {
+                                        "name": "<:alcatraz_utilitaire:877160225524830228> Backup",
+                                        "value": "`chargerbackup`, `creebackup`, `infobackup`,",
+                                        "inline": false
+                                    },
+                                    {
+                                        "name": "<:alcatraz_liens:877160224849530940> Liens",
+                                        "value": "**[Ajouter Alcatraz](https://discordapp.com/oauth2/authorize?client_id=876495429859176478&scope=bot&permissions=2146958847) | [Alcatraz 3.0](https://discord.gg/bp5ANG326t) | [Github](https://github.com/GalackQSM/Alcatraz) | [SiteWeb](https://alcatraz-bot.com) | [Dons](https://www.patreon.com/AlcatrazBot) | [Vote](https://top.gg/bot/876495429859176478/vote)**",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": null,
+                                "footer": {
+                                    "text": "© 2021 - Alcatraz-Bot.com | 3.0"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "*help",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Alcatraz",
+                        "avatar": "https://cdn.discordapp.com/avatars/876495429859176478/c6237000c390ef2580d92c7fc92d7222.webp",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": "Préfix Alcatraz",
+                                "type": "rich",
+                                "description": null,
+                                "url": null,
+                                "timestamp": "2021-08-23T22:38:03.415Z",
+                                "color": 3092790,
+                                "fields": [
+                                    {
+                                        "name": "Préfix",
+                                        "value": "`*`",
+                                        "inline": true
+                                    },
+                                    {
+                                        "name": "Exemple",
+                                        "value": "`*help`",
+                                        "inline": true
+                                    }
+                                ],
+                                "thumbnail": {
+                                    "url": "https://cdn.discordapp.com/icons/873437453023854662/e811d93fecf048f902724adcf8499db3.webp",
+                                    "proxyURL": "https://media.discordapp.net/icons/873437453023854662/e811d93fecf048f902724adcf8499db3.webp",
+                                    "height": 128,
+                                    "width": 128
+                                },
+                                "image": null,
+                                "author": null,
+                                "footer": {
+                                    "text": "© 2021 - Alcatraz-Bot.com | 3.0"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "*prefix .",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Alcatraz",
+                        "avatar": "https://cdn.discordapp.com/avatars/876495429859176478/c6237000c390ef2580d92c7fc92d7222.webp",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": "Préfix Alcatraz",
+                                "type": "rich",
+                                "description": null,
+                                "url": null,
+                                "timestamp": "2021-08-23T22:37:55.869Z",
+                                "color": 3092790,
+                                "fields": [
+                                    {
+                                        "name": "Préfix",
+                                        "value": "`*`",
+                                        "inline": true
+                                    },
+                                    {
+                                        "name": "Exemple",
+                                        "value": "`*help`",
+                                        "inline": true
+                                    }
+                                ],
+                                "thumbnail": {
+                                    "url": "https://cdn.discordapp.com/icons/873437453023854662/e811d93fecf048f902724adcf8499db3.webp",
+                                    "proxyURL": "https://media.discordapp.net/icons/873437453023854662/e811d93fecf048f902724adcf8499db3.webp",
+                                    "height": 128,
+                                    "width": 128
+                                },
+                                "image": null,
+                                "author": null,
+                                "footer": {
+                                    "text": "© 2021 - Alcatraz-Bot.com | 3.0"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "*prefix",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Alcatraz",
+                        "avatar": "https://cdn.discordapp.com/avatars/876495429859176478/c6237000c390ef2580d92c7fc92d7222.webp",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": "Salut, je suis Alcatraz. Besoin d'aide?",
+                                "type": "rich",
+                                "description": "Tu peux voir tout ce que je suis capable de faire en utilisant la commande `*help`.",
+                                "url": null,
+                                "timestamp": null,
+                                "color": 3092790,
+                                "fields": [
+                                    {
+                                        "name": "Tu me veux dans ton serveur ?",
+                                        "value": "Tu peux m'ajouter sur ton serveur en cliquant sur [ici](https://discordapp.com/oauth2/authorize?client_id=876495429859176478&scope=bot&permissions=403008599)!",
+                                        "inline": false
+                                    },
+                                    {
+                                        "name": "Support",
+                                        "value": "Si tu as des questions, des suggestions ou tu as trouvé un bogue, n'hésite pas à rejoindre le serveur support: [Alcatraz 3.0](https://discord.gg/bp5ANG326t) !",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": {
+                                    "url": "https://cdn.discordapp.com/icons/873437453023854662/e811d93fecf048f902724adcf8499db3.webp",
+                                    "proxyURL": "https://media.discordapp.net/icons/873437453023854662/e811d93fecf048f902724adcf8499db3.webp",
+                                    "height": 128,
+                                    "width": 128
+                                },
+                                "image": null,
+                                "author": null,
+                                "footer": {
+                                    "text": "© 2021 - Alcatraz-Bot.com | 3.0"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "@​Alcatraz",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "@Alcatraz",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "N4YR0Z",
+                        "avatar": "https://cdn.discordapp.com/avatars/873589639141802056/4e68aa803f359ef6d76f243c45e09e9d.webp",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": "Moment Sondage !",
+                                "type": "rich",
+                                "description": "regarder vous cette vidéo ?",
+                                "url": null,
+                                "timestamp": null,
+                                "color": null,
+                                "fields": [],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": null,
+                                "footer": {
+                                    "text": "✔️ Oui - ❌ Non"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "N4YR0Z",
+                        "avatar": "https://cdn.discordapp.com/avatars/873589639141802056/4e68aa803f359ef6d76f243c45e09e9d.webp",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": "Moment Sondage!",
+                                "type": "rich",
+                                "description": "vous aimez les frite ?",
+                                "url": null,
+                                "timestamp": null,
+                                "color": null,
+                                "fields": [],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": null,
+                                "footer": {
+                                    "text": "✔️ Oui - ❌ Non"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "-poll vous aimez les frite ?",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "N4YR0Z",
+                        "avatar": "https://cdn.discordapp.com/avatars/873589639141802056/4e68aa803f359ef6d76f243c45e09e9d.webp",
+                        "content": "voila je l’ai banni chef",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "-ban @​GeП",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "N4YR0Z",
+                        "avatar": "https://cdn.discordapp.com/avatars/873589639141802056/4e68aa803f359ef6d76f243c45e09e9d.webp",
+                        "content": "voila je l’ai kick chef",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "-kick @​GeП",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".invite",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".gen disney+",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".stock",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".itemadd disney+ Disney+\n\ndriftwood1993@gmail.com: friends07\n\ndcguyntx@yahoo.com: Wolfpack1663\n\ntweetybite@hotmail.com: kysharose07\n\nsonja@famillig.de: Systime2\n\naidin.otaku@outlook.com: devereux98",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".itemtype clear",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".item type clear",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".stock",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".gen",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".item",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".itemadd Disney+ all",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".itemadd",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": ".stock",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "s.verify",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I don't mean to burst your bubble bitch but yes I'm tryna fuck, Baby girl I'm tryna fuck`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`With a bitch named Marissa, Going faster than a missile`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Put my pride to the side (side), I could never lie, I don't care if you cry, let them pussy niggas die`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Ugly God bitch, booty thicker than the bible, Lotion in my pocket, but that's only for survival`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Ain't no, no better, wanted better days, Nicki moved down the street and I had met Lil Dave`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Young Savage real street nigga ya'll ain't on no block, Bitch keep your legs closed cuz all I want is top`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Tell lil' baby she can love me or she hate me, In the brand new McLaren, and I'm racing`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": null,
+                                "type": "rich",
+                                "description": null,
+                                "url": null,
+                                "timestamp": "2021-08-07T23:59:28.743Z",
+                                "color": 0,
+                                "fields": [
+                                    {
+                                        "name": "**𝕊ℙ𝔸𝕄𝕄𝕀ℕ𝔾 ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊**",
+                                        "value": "`Spam` - Spams chat\n `Spamtime` - spam at interval \n `Spamstop` - Stops spam \n `Dmtime` - DM everyone w/ 2m timer (DM Advertising) \n `Dmall` - DM everyone instantly \n `Lyricspam` - Spams chat with lyrics \n`Sendall` - Sends message to all channels",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": {
+                                    "name": "🧊𝕀ℂ𝔼 𝕊𝔼𝕃𝔽𝔹𝕆𝕋🧊"
+                                },
+                                "footer": {
+                                    "text": "!     N4YR0Z🖤#0001",
+                                    "icon_url": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.gif"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Hear them haters talk but there's nothing you can tell em, Just made a million got another million on my schedule`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Pull up, I don't even have no neighbors, I can't keep one bitch, I'm way too player`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`When we left that shootout, you still had bullets in your pistol, I don't fuck with y'all that's official`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Call my mom I said I'm on them xans again, In the club I'm throwin' hundreds, fuck a ten`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`No Smoke No Smoke but we die bout that money, No Smoke No Smoke you niggas don't want it`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Bust down pour, bust down beer, all of my charms, Patek on my left, AP on my right, all on my arms`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`1400, bitch, you know I tote a pole, With 6ix9ine, bitch, you know we tote them poles`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`All my diamonds carrots, dem lil' pointers be two lil', Glaziers in my ear, I need a cup, they 'bout to spill`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I can show you how to fit a M in a duffel, Show you how to fit a hunnid bags in a duffel`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Gotta thank God for my blessings, Your diamonds ain't real you flexing`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Ayy, so much green on my street like it's Grove (whoa), Ayy, made a lot of money on the road (yuh)`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Call my brother on the phone, he said broski you a star, I said brother hold it down soon we'll all be livin' large`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!spammer help",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I don't want friends, I want Audis, Smokin' on boof and it's Maui`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I'm goin' in, I'm putting everything on the line`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`They tryna copy the wave, Too many chains like a slave, Rich Forever getting paid, Money machine might break`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`be stuck in the trenches 'cause I'm on parole, And the only time I can get out is if it's for a show`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I don't know you I just got into your shit today, Lookin like a million dollar lick today`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`New six, broke wrist, I put the racks in the mattress`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Thick bitch on my dick, Lick it like ice cream`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`So much dope that it broke the scale, They say crack kills, nigga my crack sells`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Bitch I'm sippin' lean I'm poppin' pills I pop a lot`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I'm in the coupe, I'm with a bitch, ceiling got stars, Nigga want beef, he could get sparked, like a cigar`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Ain't no, no better, wanted better days, Nicki moved down the street and I had met Lil Dave`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I'm takin' your shit, you college kid, oh, We really be poppin' shit`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I heard these niggas wanna fight me, Meet me at my next show but you better bring a pipe B`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I'm a big dog lil' nigga you a pup, Pull up on ya spot walk up on it shoot it up`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Hurricane Irma on my neck, nigga, flooded out, Hurricane Harvey on my wrist, shit, flooded out, Nigga flooded out, VVS' flooded out`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`When I look in the mirror, sometimes I see a demon, I'm gettin' money these niggas don't know the meanin'`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I serve raw clean, I drink raw lean`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`I let some shots off in the air for my niggas dead, Do anything in the world for you, I'm livin' red`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "`Pardon me, you said that we would never be, But actually, we made it here eventually`",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": null,
+                                "type": "rich",
+                                "description": null,
+                                "url": null,
+                                "timestamp": "2021-08-07T23:57:54.082Z",
+                                "color": 0,
+                                "fields": [
+                                    {
+                                        "name": "**𝕊ℙ𝔸𝕄𝕄𝕀ℕ𝔾 ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊**",
+                                        "value": "`Spam` - Spams chat\n `Spamtime` - spam at interval \n `Spamstop` - Stops spam \n `Dmtime` - DM everyone w/ 2m timer (DM Advertising) \n `Dmall` - DM everyone instantly \n `Lyricspam` - Spams chat with lyrics \n`Sendall` - Sends message to all channels",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": {
+                                    "name": "🧊𝕀ℂ𝔼 𝕊𝔼𝕃𝔽𝔹𝕆𝕋🧊"
+                                },
+                                "footer": {
+                                    "text": "!     N4YR0Z🖤#0001",
+                                    "icon_url": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.gif"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!spammer help",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!dm",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": null,
+                                "type": "rich",
+                                "description": null,
+                                "url": null,
+                                "timestamp": "2021-08-07T23:57:31.262Z",
+                                "color": 0,
+                                "fields": [
+                                    {
+                                        "name": "**𝔽𝕌ℕ𝟚 ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊**",
+                                        "value": "`Avatar` - Grab user avatar `stealpfp` - ping @ and set it on your pfp \n `8ball` - Ask 8ball a question \n `YesorNo` - Returns Yes/no to question \n `Coinflip` - Flip a coin \n `Lyric` - Random rap lyric \n `Heroscope` - Check Heroscope \n `Color` - Random Color \n`Year` - Time until next year\n`Lizard` - Gives you a random lizard image\n`Dogfact` - Gives you a random dog image\n`Catfact` - Gives you a random cat image\n`Neko` - Gives you a random neko image.",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": {
+                                    "name": "'🧊𝕀ℂ𝔼 𝕊𝔼𝕃𝔽𝔹𝕆𝕋🧊"
+                                },
+                                "footer": {
+                                    "text": "!     N4YR0Z🖤#0001",
+                                    "icon_url": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.gif"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!fun2 help",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": null,
+                                "type": "rich",
+                                "description": "`Prefix:` `x` `made by:` `P1`",
+                                "url": null,
+                                "timestamp": "2021-08-07T23:57:10.493Z",
+                                "color": 0,
+                                "fields": [
+                                    {
+                                        "name": "ℍ𝔼𝕃ℙ ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊:",
+                                        "value": "`HELP TEXT` `HELP SPAMMER` `HELP FUN` `HELP FUN2` `HELP INFO` `HELP NUKE` `HELP SETUP`",
+                                        "inline": false
+                                    },
+                                    {
+                                        "name": "𝕄𝕆𝔻𝔼 𝕆ℕ:",
+                                        "value": "`✅NITRO SNIPER` `✅SLOTBOT SNIPER`",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": {
+                                    "url": "https://media.tenor.com/images/935adbcceed5f2f0a713c703f4bfbdf0/tenor.gif",
+                                    "proxyURL": "https://images-ext-1.discordapp.net/external/CgJA2GyOEie4YVN0N7kIfxK6rrLLo31w6cXYzTP5no4/https/media.tenor.com/images/935adbcceed5f2f0a713c703f4bfbdf0/tenor.gif",
+                                    "height": 124,
+                                    "width": 220
+                                },
+                                "image": null,
+                                "author": {
+                                    "name": "🧊𝕀ℂ𝔼 𝕊𝔼𝕃𝔽𝔹𝕆𝕋🧊"
+                                },
+                                "footer": {
+                                    "text": "!     N4YR0Z🖤#0001",
+                                    "icon_url": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.gif"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "‘help",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!textraid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": null,
+                                "type": "rich",
+                                "description": null,
+                                "url": null,
+                                "timestamp": "2021-08-07T23:56:49.550Z",
+                                "color": 0,
+                                "fields": [
+                                    {
+                                        "name": "**𝕎𝕀ℤℤ ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊**",
+                                        "value": "`Banall` - Bans all users \n `Kickall` - Kicks all users \n `Voiceraid` - Creates 100 voice channels \n `Textraid` - Creates 100 text channels \n `Deleteall` - Deletes all channels \n `lie` - Bans and deletes everything",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": {
+                                    "name": "🧊𝕀ℂ𝔼 𝕊𝔼𝕃𝔽𝔹𝕆𝕋🧊"
+                                },
+                                "footer": {
+                                    "text": "!     N4YR0Z🖤#0001",
+                                    "icon_url": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.gif"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": null,
+                                "type": "rich",
+                                "description": "`Prefix:` `x` `made by:` `P1`",
+                                "url": null,
+                                "timestamp": "2021-08-07T23:56:39.985Z",
+                                "color": 0,
+                                "fields": [
+                                    {
+                                        "name": "ℍ𝔼𝕃ℙ ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊:",
+                                        "value": "`HELP TEXT` `HELP SPAMMER` `HELP FUN` `HELP FUN2` `HELP INFO` `HELP NUKE` `HELP SETUP`",
+                                        "inline": false
+                                    },
+                                    {
+                                        "name": "𝕄𝕆𝔻𝔼 𝕆ℕ:",
+                                        "value": "`✅NITRO SNIPER` `✅SLOTBOT SNIPER`",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": {
+                                    "url": "https://media.tenor.com/images/935adbcceed5f2f0a713c703f4bfbdf0/tenor.gif",
+                                    "proxyURL": "https://images-ext-1.discordapp.net/external/CgJA2GyOEie4YVN0N7kIfxK6rrLLo31w6cXYzTP5no4/https/media.tenor.com/images/935adbcceed5f2f0a713c703f4bfbdf0/tenor.gif",
+                                    "height": 124,
+                                    "width": 220
+                                },
+                                "image": null,
+                                "author": {
+                                    "name": "🧊𝕀ℂ𝔼 𝕊𝔼𝕃𝔽𝔹𝕆𝕋🧊"
+                                },
+                                "footer": {
+                                    "text": "!     N4YR0Z🖤#0001",
+                                    "icon_url": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.gif"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": "HOW LONG IS HIS WOOD?",
+                                "type": "rich",
+                                "description": "!     N4YR0Z🖤#0001 penis\n8=D",
+                                "url": null,
+                                "timestamp": null,
+                                "color": 0,
+                                "fields": [],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": null,
+                                "footer": null
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!penis",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": null,
+                                "type": "rich",
+                                "description": null,
+                                "url": null,
+                                "timestamp": "2021-08-07T23:56:19.743Z",
+                                "color": 0,
+                                "fields": [
+                                    {
+                                        "name": "**𝔽𝕌ℕ ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊**",
+                                        "value": "`IQ` - Displays users IQ \n `Penis` - Displays users penis length \n `Rate` - Displays users attractiveness \n `Lovecalc` - Displays love between users \n `Kiss` - @kiss someone \n `slap` - @slap someone \n `hug` - @hug someone \n `feed` - @feed someone \n `fuck` - @fuck someone \n `gay` - Displays users how gay",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": null,
+                                "image": null,
+                                "author": {
+                                    "name": "🧊𝕀ℂ𝔼 𝕊𝔼𝕃𝔽𝔹𝕆𝕋🧊"
+                                },
+                                "footer": {
+                                    "text": "!     N4YR0Z🖤#0001",
+                                    "icon_url": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.gif"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!fun help",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!setup",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "",
+                        "embeds": [
+                            {
+                                "title": null,
+                                "type": "rich",
+                                "description": "`Prefix:` `x` `made by:` `P1`",
+                                "url": null,
+                                "timestamp": "2021-08-07T23:55:48.671Z",
+                                "color": 0,
+                                "fields": [
+                                    {
+                                        "name": "ℍ𝔼𝕃ℙ ℂ𝕆𝕄𝕄𝔸ℕ𝔻𝕊:",
+                                        "value": "`HELP TEXT` `HELP SPAMMER` `HELP FUN` `HELP FUN2` `HELP INFO` `HELP NUKE` `HELP SETUP`",
+                                        "inline": false
+                                    },
+                                    {
+                                        "name": "𝕄𝕆𝔻𝔼 𝕆ℕ:",
+                                        "value": "`✅NITRO SNIPER` `✅SLOTBOT SNIPER`",
+                                        "inline": false
+                                    }
+                                ],
+                                "thumbnail": {
+                                    "url": "https://media.tenor.com/images/935adbcceed5f2f0a713c703f4bfbdf0/tenor.gif",
+                                    "proxyURL": "https://images-ext-1.discordapp.net/external/CgJA2GyOEie4YVN0N7kIfxK6rrLLo31w6cXYzTP5no4/https/media.tenor.com/images/935adbcceed5f2f0a713c703f4bfbdf0/tenor.gif",
+                                    "height": 124,
+                                    "width": 220
+                                },
+                                "image": null,
+                                "author": {
+                                    "name": "🧊𝕀ℂ𝔼 𝕊𝔼𝕃𝔽𝔹𝕆𝕋🧊"
+                                },
+                                "footer": {
+                                    "text": "!     N4YR0Z🖤#0001",
+                                    "icon_url": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.gif"
+                                }
+                            }
+                        ],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!stop",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!textraid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "!       N4YR0Z🖤",
+                        "avatar": "https://cdn.discordapp.com/avatars/825727198152622090/a_e96a3d57f4d66a8c2dd01dad6caf34d4.webp",
+                        "content": "!textraid raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    },
+                    {
+                        "username": "Deleted User",
+                        "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+                        "content": "raid",
+                        "embeds": [],
+                        "files": [],
+                        "pinned": false
+                    }
+                ],
+                "isNews": false
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "Meilleur membre",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "Mute",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 0,
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [
+        {
+            "name": "raidprotect",
+            "url": "https://cdn.discordapp.com/emojis/873483859348586517.png"
+        }
+    ],
+    "createdTimestamp": 1629758311654,
+    "guildID": "873437453023854662",
+    "id": "879494846602149888",
+    "iconURL": "https://cdn.discordapp.com/icons/873437453023854662/e811d93fecf048f902724adcf8499db3.webp"
+}

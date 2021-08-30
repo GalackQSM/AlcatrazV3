@@ -1,0 +1,30 @@
+30/08/2021 11:44:13 - error [Alcatraz.js]: getaddrinfo ENOTFOUND space-bot-list.xyz
+{
+  "errno": -3008,
+  "code": "ENOTFOUND",
+  "syscall": "getaddrinfo",
+  "hostname": "space-bot-list.xyz",
+  "stack": "Error: getaddrinfo ENOTFOUND space-bot-list.xyz
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:67:26)"
+}
+30/08/2021 11:44:15 - error [Alcatraz.js]: Cannot create property 'webPort' on boolean 'true'
+{
+  "stack": "TypeError: Cannot create property 'webPort' on boolean 'true'
+    at new infinity (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\infinity-api\\src\\index.js:15:51)
+    at module.exports (C:\\Users\\admin\\Desktop\\Alcatraz\\src\\events\\ready.js:100:15)
+    at Client.emit (events.js:327:22)
+    at WebSocketManager.triggerClientReady (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:431:17)
+    at WebSocketManager.checkShardsReady (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:415:10)
+    at WebSocketShard.<anonymous> (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketManager.js:197:14)
+    at WebSocketShard.emit (events.js:315:20)
+    at WebSocketShard.checkReady (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:475:12)
+    at WebSocketShard.onPacket (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:447:16)
+    at WebSocketShard.onMessage (C:\\Users\\admin\\Desktop\\Alcatraz\
+ode_modules\\discord.js\\src\\client\\websocket\\WebSocketShard.js:301:10)"
+}

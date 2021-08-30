@@ -1,0 +1,918 @@
+{
+    "name": "Alcatraz Lounge",
+    "region": "eu-central",
+    "verificationLevel": "NONE",
+    "explicitContentFilter": "DISABLED",
+    "defaultMessageNotifications": "ALL",
+    "afk": null,
+    "widget": {
+        "enabled": false,
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": "📊 SERVER STATS 📊",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": 1024,
+                        "deny": 1050624
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "All Members: 7",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 SERVER STATS 📊",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 1050624
+                            }
+                        ]
+                    },
+                    {
+                        "type": "voice",
+                        "name": "Boosts: 0",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 SERVER STATS 📊",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": 1024,
+                                "deny": 1050624
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "📊 Saturne Stats 📊",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🧔・Membres: 2105",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 Saturne Stats 📊",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🔮・Boosts: 25",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 Saturne Stats 📊",
+                        "permissions": []
+                    },
+                    {
+                        "type": "voice",
+                        "name": "🧨・discord.gg/",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "📊 Saturne Stats 📊",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "⚠  la douane",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "🔒・vérifications",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "⚠  la douane",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "Alcatraz",
+                                "avatar": "https://cdn.discordapp.com/avatars/876495429859176478/c6237000c390ef2580d92c7fc92d7222.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": null,
+                                        "type": "rich",
+                                        "description": "Bienvenue à toi sur le serveur officiel du bot **Alcatraz**\n\n__Sécurité Anti-bot:__\nPense à bien cliquer sur <a:Oui:877180252491767858> pour avoir accès au reste du serveur.",
+                                        "url": null,
+                                        "timestamp": "2021-08-17T14:56:09.547Z",
+                                        "color": 3092790,
+                                        "fields": [],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "© 2020 - Alcatraz-Bot.com | 3.0"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "📌  informations",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "📣・annonces",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📌  informations",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📝・mise-à-jour",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📌  informations",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🌟・notifs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📌  informations",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎉・astuces",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📌  informations",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "👋🏻・acceuil",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📌  informations",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📬・invitations",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📌  informations",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📂・tickets",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📌  informations",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "💡・notre-pub",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📌  informations",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📊・partenariat",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "📌  informations",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "🎁  giveaway",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "🎉・giveaway1",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎁  giveaway",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🎉・giveaway2",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🎁  giveaway",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "🔍  détente",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "voice",
+                        "name": "🔈・vocal",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "🔍  détente",
+                        "permissions": []
+                    },
+                    {
+                        "type": "text",
+                        "name": "💬・discussion",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔍  détente",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "GalackQSM",
+                                "avatar": "https://cdn.discordapp.com/avatars/828358887404470279/59526e40bd7cf876b881bd5a065cfe88.webp",
+                                "content": "x)",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "!Zerg",
+                                "avatar": "https://cdn.discordapp.com/avatars/636614005888385040/a_bc6d7c672b0b548a250f8c2c5800430c.webp",
+                                "content": "Bg",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "!Zerg",
+                                "avatar": "https://cdn.discordapp.com/avatars/636614005888385040/a_bc6d7c672b0b548a250f8c2c5800430c.webp",
+                                "content": "Ah mais c’est bon ta déjà tout fait @​GalackQSM",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "🤖・commands",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔍  détente",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "Alcatraz",
+                                "avatar": "https://cdn.discordapp.com/avatars/876495429859176478/c6237000c390ef2580d92c7fc92d7222.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Panel des commandes de Alcatraz",
+                                        "type": "rich",
+                                        "description": "**Prefix:** `*`\n**Plus d'information:** `*help [commande]`\n**Nombre de commandes:** `196`",
+                                        "url": null,
+                                        "timestamp": "2021-08-17T14:50:35.760Z",
+                                        "color": 3092790,
+                                        "fields": [
+                                            {
+                                                "name": "<:alcatraz_color:877160224245559347> Couleurs",
+                                                "value": "`couleur`, `couleurhasard`, `couleurs`, `creecouleur`, `creedefaultcolors`,",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<:alcatraz_liens:877160224849530940> Liens",
+                                                "value": "**[Ajouter Alcatraz](https://discordapp.com/oauth2/authorize?client_id=876495429859176478&scope=bot&permissions=2146958847) | [Alcatraz 3.0](https://discord.gg/BBtzCS3sJZ) | [Github](https://github.com/GalackQSM/Alcatraz) | [SiteWeb](https://alcatraz-bot.com) | [Dons](https://www.patreon.com/AlcatrazBot) | [Vote](https://top.gg/bot/876495429859176478/vote)**",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "© 2020 - Alcatraz-Bot.com | 3.0"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GalackQSM",
+                                "avatar": "https://cdn.discordapp.com/avatars/828358887404470279/59526e40bd7cf876b881bd5a065cfe88.webp",
+                                "content": "*help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "📸・image",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔍  détente",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "💭・suggestion",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔍  détente",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            },
+            {
+                "name": "🔕  espace admin",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "text",
+                        "name": "⛔・général",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔕  espace admin",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⛔・commandes",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔕  espace admin",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [
+                            {
+                                "username": "GalackQSM",
+                                "avatar": "https://cdn.discordapp.com/avatars/828358887404470279/59526e40bd7cf876b881bd5a065cfe88.webp",
+                                "content": "*creebackup",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "Alcatraz",
+                                "avatar": "https://cdn.discordapp.com/avatars/876495429859176478/c6237000c390ef2580d92c7fc92d7222.webp",
+                                "content": "",
+                                "embeds": [
+                                    {
+                                        "title": "Panel des commandes de Alcatraz",
+                                        "type": "rich",
+                                        "description": "**Prefix:** `*`\n**Plus d'information:** `*help [commande]`\n**Nombre de commandes:** `196`",
+                                        "url": null,
+                                        "timestamp": "2021-08-17T15:03:17.143Z",
+                                        "color": 3092790,
+                                        "fields": [
+                                            {
+                                                "name": "<:alcatraz_utilitaire:877160225524830228> Backup",
+                                                "value": "`chargerbackup`, `creebackup`, `infobackup`,",
+                                                "inline": false
+                                            },
+                                            {
+                                                "name": "<:alcatraz_liens:877160224849530940> Liens",
+                                                "value": "**[Ajouter Alcatraz](https://discordapp.com/oauth2/authorize?client_id=876495429859176478&scope=bot&permissions=2146958847) | [Alcatraz 3.0](https://discord.gg/BBtzCS3sJZ) | [Github](https://github.com/GalackQSM/Alcatraz) | [SiteWeb](https://alcatraz-bot.com) | [Dons](https://www.patreon.com/AlcatrazBot) | [Vote](https://top.gg/bot/876495429859176478/vote)**",
+                                                "inline": false
+                                            }
+                                        ],
+                                        "thumbnail": null,
+                                        "image": null,
+                                        "author": null,
+                                        "footer": {
+                                            "text": "© 2020 - Alcatraz-Bot.com | 3.0"
+                                        }
+                                    }
+                                ],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GalackQSM",
+                                "avatar": "https://cdn.discordapp.com/avatars/828358887404470279/59526e40bd7cf876b881bd5a065cfe88.webp",
+                                "content": "*help",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GalackQSM",
+                                "avatar": "https://cdn.discordapp.com/avatars/828358887404470279/59526e40bd7cf876b881bd5a065cfe88.webp",
+                                "content": "*backup",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GalackQSM",
+                                "avatar": "https://cdn.discordapp.com/avatars/828358887404470279/59526e40bd7cf876b881bd5a065cfe88.webp",
+                                "content": "jvais voir tkt",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "!Zerg",
+                                "avatar": "https://cdn.discordapp.com/avatars/636614005888385040/a_bc6d7c672b0b548a250f8c2c5800430c.webp",
+                                "content": "Embed builder",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "!Zerg",
+                                "avatar": "https://cdn.discordapp.com/avatars/636614005888385040/a_bc6d7c672b0b548a250f8c2c5800430c.webp",
+                                "content": "Askip c’est chaud à coder ça \n@​GalackQSM",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GalackQSM",
+                                "avatar": "https://cdn.discordapp.com/avatars/828358887404470279/59526e40bd7cf876b881bd5a065cfe88.webp",
+                                "content": "deja je fais je fix tout",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GalackQSM",
+                                "avatar": "https://cdn.discordapp.com/avatars/828358887404470279/59526e40bd7cf876b881bd5a065cfe88.webp",
+                                "content": "jvais le faire",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "!Zerg",
+                                "avatar": "https://cdn.discordapp.com/avatars/636614005888385040/a_bc6d7c672b0b548a250f8c2c5800430c.webp",
+                                "content": "Oui",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GalackQSM",
+                                "avatar": "https://cdn.discordapp.com/avatars/828358887404470279/59526e40bd7cf876b881bd5a065cfe88.webp",
+                                "content": "bluider ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "!Zerg",
+                                "avatar": "https://cdn.discordapp.com/avatars/636614005888385040/a_bc6d7c672b0b548a250f8c2c5800430c.webp",
+                                "content": "Y’a les embed ?",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "GalackQSM",
+                                "avatar": "https://cdn.discordapp.com/avatars/828358887404470279/59526e40bd7cf876b881bd5a065cfe88.webp",
+                                "content": "ouais javais galerer a le faire mdr",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            },
+                            {
+                                "username": "!Zerg",
+                                "avatar": "https://cdn.discordapp.com/avatars/636614005888385040/a_bc6d7c672b0b548a250f8c2c5800430c.webp",
+                                "content": "Je kiff ton bot tete de moi @​GalackQSM",
+                                "embeds": [],
+                                "files": [],
+                                "pinned": false
+                            }
+                        ],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⛔・logs",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔕  espace admin",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    },
+                    {
+                        "type": "text",
+                        "name": "⛔・community",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "🔕  espace admin",
+                        "topic": null,
+                        "permissions": [],
+                        "messages": [],
+                        "isNews": false
+                    }
+                ]
+            }
+        ],
+        "others": []
+    },
+    "roles": [
+        {
+            "name": "⚖️・Administrateur",
+            "color": "#030000",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": true,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "👑・Créateurs",
+            "color": "#131516",
+            "hoist": true,
+            "permissions": 2146959359,
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "🔨・Modérateurs",
+            "color": "#3498db",
+            "hoist": true,
+            "permissions": 267907023,
+            "mentionable": false,
+            "position": 11,
+            "isEveryone": false
+        },
+        {
+            "name": "🌍・Community Manager",
+            "color": "#0a8c9f",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 10,
+            "isEveryone": false
+        },
+        {
+            "name": "📦・Support",
+            "color": "#ff8700",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 9,
+            "isEveryone": false
+        },
+        {
+            "name": "💉・Amis",
+            "color": "#2c4fa5",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": true,
+            "position": 8,
+            "isEveryone": false
+        },
+        {
+            "name": "💓・Boosteur",
+            "color": "#f47fff",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "🐝・Membres",
+            "color": "#2ecc71",
+            "hoist": true,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 6,
+            "isEveryone": false
+        },
+        {
+            "name": "💙・Soutien",
+            "color": "#5b2076",
+            "hoist": true,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 5,
+            "isEveryone": false
+        },
+        {
+            "name": "🤖・bots",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": 8,
+            "mentionable": false,
+            "position": 4,
+            "isEveryone": false
+        },
+        {
+            "name": "Mute",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 3,
+            "isEveryone": false
+        },
+        {
+            "name": "💣・Notifs",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": 104189505,
+            "mentionable": false,
+            "position": 2,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": 104320577,
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [
+        {
+            "id": "876563828559716402",
+            "reason": null
+        }
+    ],
+    "emojis": [
+        {
+            "name": "alcatraz_bot",
+            "url": "https://cdn.discordapp.com/emojis/877160223507349505.png"
+        },
+        {
+            "name": "alcatraz_balance",
+            "url": "https://cdn.discordapp.com/emojis/877160223616405537.png"
+        },
+        {
+            "name": "alcatraz_bravery",
+            "url": "https://cdn.discordapp.com/emojis/877160223666745386.png"
+        },
+        {
+            "name": "alcatraz_admin",
+            "url": "https://cdn.discordapp.com/emojis/877160223670951998.png"
+        },
+        {
+            "name": "alcatraz_afk",
+            "url": "https://cdn.discordapp.com/emojis/877160223696097312.png"
+        },
+        {
+            "name": "alcatraz_bot_certifier",
+            "url": "https://cdn.discordapp.com/emojis/877160223696113695.png"
+        },
+        {
+            "name": "alcatraz_boost",
+            "url": "https://cdn.discordapp.com/emojis/877160223708692491.png"
+        },
+        {
+            "name": "alcatraz_badge",
+            "url": "https://cdn.discordapp.com/emojis/877160223951978516.png"
+        },
+        {
+            "name": "alcatraz_database",
+            "url": "https://cdn.discordapp.com/emojis/877160223968755743.png"
+        },
+        {
+            "name": "alcatraz_creation",
+            "url": "https://cdn.discordapp.com/emojis/877160223985504298.png"
+        },
+        {
+            "name": "alcatraz_brilliance",
+            "url": "https://cdn.discordapp.com/emojis/877160224056815626.png"
+        },
+        {
+            "name": "alcatraz_bug_hunter",
+            "url": "https://cdn.discordapp.com/emojis/877160224102952980.png"
+        },
+        {
+            "name": "alcatraz_color",
+            "url": "https://cdn.discordapp.com/emojis/877160224245559347.png"
+        },
+        {
+            "name": "alcatraz_emojis",
+            "url": "https://cdn.discordapp.com/emojis/877160224295882763.png"
+        },
+        {
+            "name": "alcatraz_bug_hunter2",
+            "url": "https://cdn.discordapp.com/emojis/877160224304291850.png"
+        },
+        {
+            "name": "alcatraz_error",
+            "url": "https://cdn.discordapp.com/emojis/877160224337829928.png"
+        },
+        {
+            "name": "alcatraz_early_supporter",
+            "url": "https://cdn.discordapp.com/emojis/877160224354615316.png"
+        },
+        {
+            "name": "alcatraz_fail",
+            "url": "https://cdn.discordapp.com/emojis/877160224455270431.png"
+        },
+        {
+            "name": "alcatraz_owner",
+            "url": "https://cdn.discordapp.com/emojis/877160224459472927.png"
+        },
+        {
+            "name": "alcatraz_github",
+            "url": "https://cdn.discordapp.com/emojis/877160224501428284.png"
+        },
+        {
+            "name": "alcatraz_dev_certifier",
+            "url": "https://cdn.discordapp.com/emojis/877160224560136202.png"
+        },
+        {
+            "name": "alcatraz_hypesquad",
+            "url": "https://cdn.discordapp.com/emojis/877160224614645790.png"
+        },
+        {
+            "name": "alcatraz_library",
+            "url": "https://cdn.discordapp.com/emojis/877160224618852362.png"
+        },
+        {
+            "name": "alcatraz_misc",
+            "url": "https://cdn.discordapp.com/emojis/877160224652394526.png"
+        },
+        {
+            "name": "alcatraz_partner_discord",
+            "url": "https://cdn.discordapp.com/emojis/877160224660795423.png"
+        },
+        {
+            "name": "alcatraz_points",
+            "url": "https://cdn.discordapp.com/emojis/877160224727896146.png"
+        },
+        {
+            "name": "alcatraz_fun",
+            "url": "https://cdn.discordapp.com/emojis/877160224740491274.png"
+        },
+        {
+            "name": "alcatraz_nsfw",
+            "url": "https://cdn.discordapp.com/emojis/877160224744693780.png"
+        },
+        {
+            "name": "alcatraz_mod",
+            "url": "https://cdn.discordapp.com/emojis/877160224761475113.png"
+        },
+        {
+            "name": "alcatraz_servers",
+            "url": "https://cdn.discordapp.com/emojis/877160224807596093.png"
+        },
+        {
+            "name": "alcatraz_id",
+            "url": "https://cdn.discordapp.com/emojis/877160224815980574.png"
+        },
+        {
+            "name": "alcatraz_liens",
+            "url": "https://cdn.discordapp.com/emojis/877160224849530940.png"
+        },
+        {
+            "name": "alcatraz_pseudo",
+            "url": "https://cdn.discordapp.com/emojis/877160224954400788.png"
+        },
+        {
+            "name": "alcatraz_pong",
+            "url": "https://cdn.discordapp.com/emojis/877160225004736583.png"
+        },
+        {
+            "name": "alcatraz_info",
+            "url": "https://cdn.discordapp.com/emojis/877160225008918589.png"
+        },
+        {
+            "name": "alcatraz_sondage",
+            "url": "https://cdn.discordapp.com/emojis/877160225113780285.png"
+        },
+        {
+            "name": "alcatraz_pin",
+            "url": "https://cdn.discordapp.com/emojis/877160225117995068.png"
+        },
+        {
+            "name": "alcatraz_statut",
+            "url": "https://cdn.discordapp.com/emojis/877160225214464000.png"
+        },
+        {
+            "name": "alcatraz_staff_discord",
+            "url": "https://cdn.discordapp.com/emojis/877160225310912562.png"
+        },
+        {
+            "name": "alcatraz_surnom",
+            "url": "https://cdn.discordapp.com/emojis/877160225394786375.png"
+        },
+        {
+            "name": "alcatraz_tag",
+            "url": "https://cdn.discordapp.com/emojis/877160225440931860.png"
+        },
+        {
+            "name": "alcatraz_uptime",
+            "url": "https://cdn.discordapp.com/emojis/877160225478697090.png"
+        },
+        {
+            "name": "alcatraz_utilitaire",
+            "url": "https://cdn.discordapp.com/emojis/877160225524830228.png"
+        },
+        {
+            "name": "alcatraz_roles",
+            "url": "https://cdn.discordapp.com/emojis/877160225554202684.png"
+        },
+        {
+            "name": "alcatraz_version",
+            "url": "https://cdn.discordapp.com/emojis/877160225621311489.png"
+        },
+        {
+            "name": "alcatraz_text",
+            "url": "https://cdn.discordapp.com/emojis/877160225646469121.png"
+        },
+        {
+            "name": "alcatraz_wumpus",
+            "url": "https://cdn.discordapp.com/emojis/877160225684221973.png"
+        },
+        {
+            "name": "alcatraz_valider",
+            "url": "https://cdn.discordapp.com/emojis/877160225701003264.png"
+        },
+        {
+            "name": "alcatraz_voice",
+            "url": "https://cdn.discordapp.com/emojis/877160225797439488.png"
+        },
+        {
+            "name": "alcatraz_verification",
+            "url": "https://cdn.discordapp.com/emojis/877160225835208794.png"
+        },
+        {
+            "name": "Oui",
+            "url": "https://cdn.discordapp.com/emojis/877180252491767858.gif"
+        },
+        {
+            "name": "Non",
+            "url": "https://cdn.discordapp.com/emojis/877180256438603886.gif"
+        }
+    ],
+    "createdTimestamp": 1629212612256,
+    "guildID": "876540658838569011",
+    "id": "877206017434320896",
+    "iconURL": "https://cdn.discordapp.com/icons/876540658838569011/058c44bb27bab402e78e44bf6127daa9.webp"
+}
