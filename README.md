@@ -76,3 +76,5 @@ Alcatraz a beaucoup de fonctionnalités, avec **15 catégories principales**:
 ## License
 
 Alcatraz est licencié sous la licence (BSD 2-Clause License). Voir le fichier «LICENCE» pour plus d'informations. Si vous envisagez d'utiliser une partie de ce code source dans votre propre bot, je vous serais reconnaissant d'inclure une forme de crédit quelque part.
+ 
+## La commande *créditsbot dois rester sur votre projet
