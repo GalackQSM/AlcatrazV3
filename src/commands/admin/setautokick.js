@@ -17,6 +17,7 @@ const Command = require('../Alcatraz.js');
 const { MessageEmbed } = require('discord.js');
 const { oneLine } = require('common-tags');
 const config = require('../../../config.json');
+const emojis = require('../../utils/emojis.json');
 
 module.exports = class SetAutoKickCommand extends Command {
   constructor(client) {
@@ -43,7 +44,7 @@ module.exports = class SetAutoKickCommand extends Command {
     const embed = new MessageEmbed()
       .setTitle('Paramètres: `Auto Kick`')
       .setThumbnail(message.guild.iconURL({ dynamic: true }))
-      .setDescription('`L\'auto kick` a été mis à jour avec succès. <:alcatraz_valider:776109858948120636>')
+      .setDescription(""+emojis.success+" L'auto kick a été mis à jour avec succès.")
       .setFooter(config.footer)
       .setTimestamp()
       .setColor("#2f3136");
