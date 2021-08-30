@@ -25,6 +25,7 @@ module.exports = class AntutrustCommand extends Command {
         super(client, {
             name: 'addwhitelist',
             description: 'Ajoutez un membre a la whitelist!',
+            userPermissions: ['MANAGE_GUILD'],
             type: client.types.ANTIRAID
         });
     }
