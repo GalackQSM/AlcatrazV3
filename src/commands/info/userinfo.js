@@ -64,8 +64,8 @@ module.exports = class UserInfoCommand extends Command {
           activities.push(`Joue **${activity.name}**`);
           break;
         case 'LISTENING':
-          if (member.user.bot) activities.push(`Ecoute **${activity.name}**`);
-          else activities.push(`Ecoute **${activity.details}** par **${activity.state}**`);
+          if (member.user.bot) activities.push(`${emojis.spotify} Ecoute **${activity.name}**`);
+          else activities.push(`${emojis.spotify} Ecoute **${activity.details}** par **${activity.state}**`);
           break;
         case 'WATCHING':
           activities.push(`Regarde **${activity.name}**`);
