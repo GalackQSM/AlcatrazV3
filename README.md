@@ -55,7 +55,7 @@ Alcatraz a beaucoup de fonctionnalités, avec **15 catégories principales**:
 * 5- Après faite dans le CMD `npm start`.
 
 * Si vous arrivez pas a installer les modules: [Télécharger les modules](https://anonfiles.com/3ab9O4E6u6/node_modules_zip)
-* 
+
 * PS: Si vous avez des erreurs d'installation, télécharger [Visual Studio Community](https://visualstudio.microsoft.com/fr/vs/community/) et cocher cette case pendant l'installation [Screen](https://i.imgur.com/KTqnSxo.png) et refaire `npm start` et le tour est jouer.
 
 * Pensez a activer les Privileged Gateway Intents de votre bot pour qu'il fonctionne [Image ici](https://prnt.sc/vq58ed)
